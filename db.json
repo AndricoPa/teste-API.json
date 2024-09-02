@@ -1,0 +1,58 @@
+{
+    "pecas": [
+        {
+        "nome":"rtx 4090 da asuka <3",
+        "preco":"4999,99",
+        "precoNew":"3999,99",
+        "foto":"https://www.adrenaline.com.br/wp-content/uploads/2023/07/ASUS-EVA-02-Evangelion-GeForce-RTX-4090-CAPA.jpg"
+        },
+        {
+            "nome":"rtx 3060 rosa",
+            "preco":"3900,96",
+            "precoNew":"3500,94",
+            "foto":"https://www.adrenaline.com.br/wp-content/uploads/2021/05/colorfire-vitality-gtx-1600-placas-01.jpg"
+        },
+        {
+            "nome":"memoria ram de 1gb",
+            "preco":"1,99",
+            "precoNew":"00,01",
+            "foto":"https://images.tcdn.com.br/img/img_prod/664937/memoria_ram_kingston_1gb_5300mhz_para_destop_12137_1_33bb7685304747f9de5266defb9c59f6.jpg"
+        },
+        {
+            "nome":"placa mãe mais antiga que o ramsés",
+            "preco":"499,99",
+            "precoNew":"399,99",
+            "foto":"https://tudosobreprodutos.com.br/img/placa-mae-asus-socket-p4s800-intel-4-celeron-6-portas-usb.png"
+        },
+        {
+            "nome":"processador 2",
+            "preco":"8099,99",
+            "precoNew":"8099,98",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmsN2BT2WSLDFDqMHM9uBIndwFDkureBnVA&s"
+        },
+        {
+            "nome":"moises gamer",
+            "preco":"145,00",
+            "precoNew":"10,99",
+            "foto":"https://i.redd.it/60d9g1lt0zq61.jpg"
+        },
+        {
+            "nome":"teclado gamer com luizinha e tela",
+            "preco":"1000,94",
+            "precoNew":"599,99",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-T_rSj6kZqIL73eNAnDO5RQg5d-T3a95bA&s"
+        },
+        {
+            "nome":"monitor da lenda",
+            "preco":"20009,99",
+            "precoNew":"15009,99",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6xLrUkXhn6GxPEiBTU6n_Fxj49kYLPAz0A&s"
+        },
+        {
+            "nome":"gabinte aguado",
+            "preco":"1999,99",
+            "precoNew":"1599,99",
+            "foto":"https://i0.wp.com/nerdizmo.ig.com.br/wp-content/uploads/2021/02/gabinete-aquario-01.jpg?fit=950%2C500&ssl=1"
+        }
+    ]
+}
