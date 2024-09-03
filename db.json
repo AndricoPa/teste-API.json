@@ -57,7 +57,7 @@
       "id": "8e12"
     },
     {
-      "nome": "monitor da lenda",
+      "nome": "monitor shrek",
       "preco": "20009,99",
       "precoNew": "15009,99",
       "quantidade": "1",
@@ -86,7 +86,7 @@
       "preco": "599,99",
       "precoNew": "399,99",
       "quantidade": "2",
-      "url": "https://pichaugaming.com.br/wp-content/uploads/2022/11/pgh-p851-rgb1020.jpg"
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxAE8qa-jKlrcr7OpCxtTthFHCElOFXbn8en310KrKfJF5ZEg5ZqEfgA3VW6MXNa__one46vJGSBEBKs3gf39C9SoJF56VbEy9AsF2HT7tkyplZoxSQFVI&usqp=CAE"
     },
     {
       "id": "6104",
@@ -95,6 +95,14 @@
       "precoNew": "899,99",
       "quantidade": "2",
       "url": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/g/pg-cfv27-bl014.jpg"
+    },
+    {
+      "id": "beb8",
+      "nome": "cadeira gamer",
+      "preco": "5999,99",
+      "precoNew": "4499,96",
+      "quantidade": "7",
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDU8um0eWep421gDOD5GNp3pf1xXpM9pyI29TBWowT5PVlEIGyTLQv9DPU_9QgPj0Oxkdp20cbxmePX-bKyFqJ74-0PhiQ8ZORQUEhVrJ4&usqp=CAE"
     }
   ]
 }

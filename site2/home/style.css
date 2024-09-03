@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 body{
     background-color: #d1d1d1;
@@ -24,10 +25,16 @@ header ul li{
 header ul li a:hover{
     color: #f1f1f1;
 }
-#title{
+#title,#desc,#new, #hots{
     text-align: center;
     margin: 1rem 0;
     text-transform: capitalize;
+}
+#novidades, #avaliacoes{
+    display: flex;
+    justify-content: space-around;   
+    align-items: center;
+    flex-wrap: wrap;
 }
 .cards{
     max-width: 80%;
@@ -59,6 +66,21 @@ header ul li a:hover{
     transition: transform 0.3s;
     box-shadow: 2px 4px;
 }
+.cardCozinha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: chartreuse; 
+    width: 20%;
+    height: 450px;
+    gap: 20px;
+    margin: 20px;
+    border-radius: 25px;
+    text-transform: capitalize;
+    transition: transform 0.3s;
+    border: 1px solid black;
+}
 #spam{
     text-decoration: line-through;
 }
@@ -74,8 +96,23 @@ footer{
     text-align: center;
     margin: 1rem 0 0 0;
     padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 footer p a{
     text-decoration: none;
     color: #f1f1f1;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #fdd19a;
+    transition: 0.2s;
+    font-size: 1rem;
+}   
+footer ul li a:hover{
+    color: white;
 }
