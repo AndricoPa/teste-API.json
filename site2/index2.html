@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="form/style.css">
+    <title>Pixau Formulario</title>
+</head>
+<body>
+    <header>
+        <ul> <!-- li*4>a -->
+            <li><a href="index.html">início</a></li>
+            <li><a href="#">produtos</a></li>
+            <li><a href="#">novidades</a></li>
+            <li><a href="#">avaliações</a></li>
+            <li><a href="index2.html">adicionar produtos</a></li>
+        </ul>
+    </header>
+    <main>
+        <h1 id="title">Formulario de produtos</h1>
+        <section class="formulario">
+            <form id="dataForm">
+                <div class="form">
+                <label for="nome">nome do produto:</label>
+                <div><input type="text" id="nome" name="nome" placeholder="nome do produto" required></div>
+
+                <label for="preco">o preço original do produto:</label>
+                <div><input type="text" id="preco" name="preco" placeholder="preço do produto" required></div>
+
+                <label for="precoNew">digite o novo preço:</label>
+                <div><input type="text" id="precoNew" name="precoNew" placeholder="preço com desconto"></div>
+
+                <label for="quantidade">digite a quantidade de produtos</label>
+                <div><input type="text" id="quantidade" name="quantidade" placeholder="quantidade do produto"></div>
+
+                <label for="url">coloque a url da foto do produto</label>
+                <div><input type="url" id="url" name="url" placeholder="foto do produto"></div>
+
+                <div><button type="submit">enviar ao banco de dados</button></div>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;pixau2</p>
+        <p><a href="https://www.instagram.com/jottakkkjk/" target="_blank">instagram</a></p>
+    </footer>
+    <script src="form/form.js"></script>
+</body>
+</html>

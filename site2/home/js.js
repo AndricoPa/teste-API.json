@@ -9,8 +9,9 @@ async function pushPecas(){
     cartoes.innerHTML = dados.map(pecas =>{
         return`
         <div class="card">
-        <img src="${pecas.foto}" class="foto">
+        <img src="${pecas.url}" class="foto">
         <h3>${pecas.nome}</h3>
+        <h4>tem ${pecas.quantidade} desse produto</h4>
         <p>antes por r$ <spam id="spam">${pecas.preco}</spam></p>
         <p>agora por r$ ${pecas.precoNew} </p>
         <button class="button">comprar</button>
